@@ -1,0 +1,22 @@
+[
+  {
+    "code": "R1",
+    "name": "North Texas"
+  },
+  {
+    "code": "R2",
+    "name": "South Texas"
+  },
+  {
+    "code": "R3",
+    "name": "Midwest"
+  },
+  {
+    "code": "R4",
+    "name": "Southeast"
+  },
+  {
+    "code": "R5",
+    "name": "West"
+  }
+]
